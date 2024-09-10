@@ -1,0 +1,61 @@
+{
+	"PistonPump1":
+	{
+		"enable": 0,
+		"time_on": 500,
+		"time_off": 500,
+		"threshold": 15,
+		"speed": 5000,
+		"max_step": 4500
+	},
+	"PistonPump2":
+	{
+		"enable": 0,
+		"time_on": 1000,
+		"time_off": 1000,
+		"threshold": 15,
+		"speed": 5000
+	},
+	"AirPump1":
+	{
+		"enable": 0,
+		"time_on": 1000,
+		"time_off": 8000,
+		"intensity": 50
+	},
+	"AirPump2":
+	{
+		"enable": 0,
+		"time_on": 1000,
+		"time_off": 1000,
+		"intensity": 50
+	},
+	"PeristalticPump1":
+	{
+		"enable": 1,
+		"time_on": 2000,
+		"time_off": 10000,
+		"speed": 30,
+		"direction": 0
+	},
+	"PeristalticPump2":
+	{
+		"enable": 0,
+		"time_on": 2000,
+		"time_off": 2000,
+		"speed": 60,
+		"direction": 0
+	},
+	"Valve1":
+	{
+		"enable": 1,
+		"angle": 180
+	},
+	"LED1":
+	{
+		"enable": 1,
+		"time_on": 2000,
+		"time_off": 10000,
+		"intensity": 70
+	}
+}
