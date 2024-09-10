@@ -26,5 +26,5 @@ Example:
 **********
 
 ## Software:
-Users are invited to develop their own software to dynamically update parameters, allowing even more complex setups. A basic example appears in the file ****************
+Users are invited to develop their own software to dynamically update parameters, allowing even more complex setups. A GUI based software appears in the Software folder.
 
