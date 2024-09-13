@@ -1,0 +1,37 @@
+1.1.7
+adding 3 new pipes
+
+1.1.6
+Tiny GUI touchup - grouping menu elements by type
+as requested - hiding the heat unit
+
+1.1.5
+mini chamber (42x42) was added
+XX unhandled bug - background shape - at a certain combination of placement of elements - rotated upon click on bg...
+
+1.1.4
+Manually merged version due to github issue around v 1.1.2
+also from prev: p5js canvas size ! 
+
+1.1.3 
+was WiP and merged into 1.1.4. see above note.
+
+1.1.2
+tiny tiny tiny touchups (some images and some svgs - pixel level touchup. rotation - half a pix center fixed)
+
+1.1.1
+adding new object: small chamber and new pump.
+hiding old pump
+refining small pipe
+
+
+1.1.0
+fixed style to allow adobe illustrator to read the svg file. Note:
+2_redCut --> 200
+2b_redCut --> 210
+
+2_blackLine --> 300
+2b_blackLine--> 310
+
+1.0.1
+nice! (still - some objects are missing and some need refinement, like the small v.pipe)

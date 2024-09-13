@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="21x21 X pipe"
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 63">
+	<defs>
+		<style>  
+.cls-200{fill:none; stroke-width:2px; stroke:red;stroke-miterlimit:10;}
+.cls-300{fill: none; stroke-linejoin:round; stroke:#000;stroke-linecap:round;stroke-width:2px; stroke-miterlimit:10;}
+.cls-310{fill: none; stroke-linejoin:round; stroke:#000;stroke-linecap:round;stroke-width:0.666px; stroke-miterlimit:10;}
+.cls-210{fill:none; stroke-width:0.666px; stroke:red;stroke-miterlimit:10;}
+
+.cls-1,.cls-4,.cls-5{fill:none; stroke-miterlimit:10;}
+.cls-1{opacity:.8;stroke-width:1px;}
+.cls-6{opacity:.4;stroke-width:1px;}
+.NO_BG_LINES, .cls-1,.cls-4,.cls-5,.cls-6{stroke:none;}
+._LIGHT_BLUE, .cls-1,.cls-4,.cls-5,.cls-6{stroke:rgb(153, 230, 246);}
+.cls-5{stroke-width:.25px;}
+
+.def {
+      font: 40px sans-serif;
+      stroke: blue;
+      fill: white;
+    }
+    .shablona {
+      font: 40px sans-serif;
+      stroke: green;
+      fill: white;
+    }
+    .heavy {
+      font: bold 30px sans-serif;
+    }
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .Rrrrr {
+      font: italic 40px serif;
+      fill: red;
+    }
+  </style>
+	</defs>
+	<g id="21x21 X pipe" transform="scale(3)">
+		<g id="bg grid 1x1x21 pix blocks">
+			<line class="cls-1" x1="0" y1="0" x2="0" y2="21"/>
+			<line class="cls-6" x1="5.25" y1="0" x2="5.25" y2="21"/>
+			<line class="cls-6" x1="15.75" y1="0" x2="15.75" y2="21"/>
+			<line class="cls-1" x1="21" y1="0" x2="21" y2="21"/>
+			<line class="cls-1" x1="0" y1="0" x2="21" y2="0"/>
+			<line class="cls-6" x1="0" y1="5.25" x2="21" y2="5.25"/>
+			<line class="cls-6" x1="0" y1="15.75" x2="21" y2="15.75"/>
+			<line class="cls-1" x1="0" y1="21" x2="21" y2="21"/>
+		</g>
+		<g id="shape 21x21_x_pipe" transform="scale(0.3523)">
+			<path class="cls-300" d="M43.94,59.53c0-8.61,6.98-15.59,15.59-15.59"/>
+			<path class="cls-300" d="M59.53,15.59c-8.61,0-15.59-6.98-15.59-15.59"/>
+			<path class="cls-300" d="M15.59,0C15.59,8.61,8.61,15.59,0,15.59"/>
+			<path class="cls-300" d="M0,43.94c8.61,0,15.59,6.98,15.59,15.59"/>
+		</g>
+	</g>
+</svg>
+
+
+

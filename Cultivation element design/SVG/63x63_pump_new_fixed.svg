@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 189 189">
+	<style>
+   
+.cls-200{fill:none; stroke-width:2px; stroke:red;stroke-miterlimit:10;}
+.cls-300{fill: none; stroke-linejoin:round; stroke:#000;stroke-linecap:round;stroke-width:2px; stroke-miterlimit:10;}
+.cls-310{fill: none; stroke-linejoin:round; stroke:#000;stroke-linecap:round;stroke-width:0.666px; stroke-miterlimit:10;}
+.cls-210{fill:none; stroke-width:0.666px; stroke:red;stroke-miterlimit:10;}
+
+.cls-1,.cls-4,.cls-5{fill:none; stroke-miterlimit:10;}
+.cls-1{opacity:.8;stroke-width:1px;}
+.cls-6{opacity:.4;stroke-width:1px;}
+.NO_BG_LINES, .cls-1,.cls-4,.cls-5,.cls-6{stroke:none;}
+._LIGHT_BLUE, .cls-1,.cls-4,.cls-5,.cls-6{stroke:rgb(153, 230, 246);}
+.cls-5{stroke-width:.25px;}
+
+.def {
+      font: 40px sans-serif;
+      stroke: blue;
+      fill: white;
+    }
+    .shablona {
+      font: 40px sans-serif;
+      stroke: green;
+      fill: white;
+    }
+    .heavy {
+      font: bold 30px sans-serif;
+    }
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .Rrrrr {
+      font: italic 40px serif;
+      fill: red;
+    }
+  </style>
+	<metadata>
+		<JSON_Descriptor></JSON_Descriptor>
+	</metadata>
+	<g transform="scale(3)">
+		<g id="63X63_new_pump" transform="scale(1)">
+			<g id="bg grid 3x3x21 pix blocks">
+				<line class="cls-1" x1="0" y1="0" x2="0" y2="63"/>
+				<line class="cls-6" x1="5.25" y1="0" x2="5.25" y2="63"/>
+				<line class="cls-6" x1="15.75" y1="0" x2="15.75" y2="63"/>
+				<line class="cls-1" x1="21" y1="0" x2="21" y2="63"/>
+				<line class="cls-6" x1="26.25" y1="0" x2="26.25" y2="63"/>
+				<line class="cls-6" x1="36.75" y1="0" x2="36.75" y2="63"/>
+				<line class="cls-1" x1="42" y1="0" x2="42" y2="63"/>
+				<line class="cls-6" x1="47.25" y1="0" x2="47.25" y2="63"/>
+				<line class="cls-6" x1="57.75" y1="0" x2="57.75" y2="63"/>
+				<line class="cls-1" x1="63" y1="0" x2="63" y2="63"/>
+				<line class="cls-1" x1="0" y1="0" x2="63" y2="0"/>
+				<line class="cls-6" x1="0" y1="5.25" x2="63" y2="5.25"/>
+				<line class="cls-6" x1="0" y1="15.75" x2="63" y2="15.75"/>
+				<line class="cls-1" x1="0" y1="21" x2="63" y2="21"/>
+				<line class="cls-6" x1="0" y1="26.25" x2="63" y2="26.25"/>
+				<line class="cls-6" x1="0" y1="36.75" x2="63" y2="36.75"/>
+				<line class="cls-1" x1="0" y1="42" x2="63" y2="42"/>
+				<line class="cls-6" x1="0" y1="47.25" x2="63" y2="47.25"/>
+				<line class="cls-6" x1="0" y1="57.75" x2="63" y2="57.75"/>
+				<line class="cls-1" x1="0" y1="63" x2="63" y2="63"/>
+			</g>
+			<g id="shape 63X63_new_pump"  transform="scale(0.352804342207289)">
+				<circle class="cls-200" cx="89.29" cy="90.29" r="21.26"/>
+				<path class="cls-300" d="M75.12,1c0,19.78,0,26.93-15.59,32.87"/>
+				<path class="cls-300" d="M103.47,1c0,33.73,0,43.94-28.35,56.81"/>
+				<path class="cls-300" d="M121.95,104.09c-5.38,12.72-17.97,21.64-32.65,21.64-19.57,0-35.43-15.86-35.43-35.43,0-14.53,8.74-27.02,21.26-32.48"/>
+				<path class="cls-300" d="M59.53,33.87c-20.23,10.69-34.01,31.95-34.01,56.42,0,35.22,28.56,63.78,63.78,63.78,24.47,0,45.73-13.79,56.42-34.02"/>
+				<path class="cls-300" d="M179,75c-36.16,0-44.65,0-56.81,28.34"/>
+				<path class="cls-300" d="M179,103.5c-18.41,0-27.92,0-32.87,15.59"/>
+			</g>
+		</g>
+	</g>
+	
+</svg>

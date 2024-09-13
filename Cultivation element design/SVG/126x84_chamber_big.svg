@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   viewBox="0 0 378 252">
+	<style>
+   
+.cls-200{fill:none; stroke-width:2px; stroke:red;stroke-miterlimit:10;}
+.cls-300{fill: none; stroke-linejoin:round; stroke:#000;stroke-linecap:round;stroke-width:2px; stroke-miterlimit:10;}
+.cls-310{fill: none; stroke-linejoin:round; stroke:#000;stroke-linecap:round;stroke-width:0.666px; stroke-miterlimit:10;}
+.cls-210{fill:none; stroke-width:0.666px; stroke:red;stroke-miterlimit:10;}
+
+.cls-1,.cls-4,.cls-5{fill:none; stroke-miterlimit:10;}
+.cls-1{opacity:.8;stroke-width:1px;}
+.cls-6{opacity:.4;stroke-width:1px;}
+.NO_BG_LINES, .cls-1,.cls-4,.cls-5,.cls-6{stroke:none;}
+._LIGHT_BLUE, .cls-1,.cls-4,.cls-5,.cls-6{stroke:rgb(153, 230, 246);}
+.cls-5{stroke-width:.25px;}
+
+.def {
+      font: 40px sans-serif;
+      stroke: blue;
+      fill: white;
+    }
+    .shablona {
+      font: 40px sans-serif;
+      stroke: green;
+      fill: white;
+    }
+    .heavy {
+      font: bold 30px sans-serif;
+    }
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .Rrrrr {
+      font: italic 40px serif;
+      fill: red;
+    }
+  </style>
+	<metadata>
+		<JSON_Descriptor></JSON_Descriptor>
+	</metadata>
+	<g transform="scale(3)">
+	<g id="126x84_chamber_big">
+		<g id="bg grid 6x4x21 pix blocks">
+			<line class="cls-1" x1="0" y1="0" x2="0" y2="84"/>
+			<line class="cls-6" x1="5.25" y1="0" x2="5.25" y2="84"/>
+			<line class="cls-6" x1="15.75" y1="0" x2="15.75" y2="84"/>
+			<line class="cls-1" x1="21" y1="0" x2="21" y2="84"/>
+			<line class="cls-6" x1="26.25" y1="0" x2="26.25" y2="84"/>
+			<line class="cls-6" x1="36.75" y1="0" x2="36.75" y2="84"/>
+			<line class="cls-1" x1="42" y1="0" x2="42" y2="84"/>
+			<line class="cls-6" x1="47.25" y1="0" x2="47.25" y2="84"/>
+			<line class="cls-6" x1="57.75" y1="0" x2="57.75" y2="84"/>
+			<line class="cls-1" x1="63" y1="0" x2="63" y2="84"/>
+			<line class="cls-6" x1="68.25" y1="0" x2="68.25" y2="84"/>
+			<line class="cls-6" x1="78.75" y1="0" x2="78.75" y2="84"/>
+			<line class="cls-1" x1="84" y1="0" x2="84" y2="84"/>
+			<line class="cls-6" x1="89.25" y1="0" x2="89.25" y2="84"/>
+			<line class="cls-6" x1="99.75" y1="0" x2="99.75" y2="84"/>
+			<line class="cls-1" x1="105" y1="0" x2="105" y2="84"/>
+			<line class="cls-6" x1="110.25" y1="0" x2="110.25" y2="84"/>
+			<line class="cls-6" x1="120.75" y1="0" x2="120.75" y2="84"/>
+			<line class="cls-1" x1="126" y1="0" x2="126" y2="84"/>
+			<line class="cls-1" x1="0" y1="0" x2="126" y2="0"/>
+			<line class="cls-6" x1="0" y1="5.25" x2="126" y2="5.25"/>
+			<line class="cls-6" x1="0" y1="15.75" x2="126" y2="15.75"/>
+			<line class="cls-1" x1="0" y1="21" x2="126" y2="21"/>
+			<line class="cls-6" x1="0" y1="26.25" x2="126" y2="26.25"/>
+			<line class="cls-6" x1="0" y1="36.75" x2="126" y2="36.75"/>
+			<line class="cls-1" x1="0" y1="42" x2="126" y2="42"/>
+			<line class="cls-6" x1="0" y1="47.25" x2="126" y2="47.25"/>
+			<line class="cls-6" x1="0" y1="57.75" x2="126" y2="57.75"/>
+			<line class="cls-1" x1="0" y1="63" x2="126" y2="63"/>
+			<line class="cls-6" x1="0" y1="68.25" x2="126" y2="68.25"/>
+			<line class="cls-6" x1="0" y1="78.75" x2="126" y2="78.75"/>
+			<line class="cls-1" x1="0" y1="84" x2="126" y2="84"/>
+		</g>
+		<g id="126x84_chamber_big shape" transform="scale(0.352804342207289)">
+			<g>
+				<line class="cls-300" x1="75.12" y1="0" x2="75.12" y2="15.59"/>
+				<line class="cls-300" x1="103.46" y1="15.59" x2="103.46" y2="0"/>
+			</g>
+			<g>
+				<line class="cls-300" x1="253.68" y1="222.52" x2="253.68" y2="238.11"/>
+				<line class="cls-300" x1="282.03" y1="238.11" x2="282.03" y2="222.52"/>
+			</g>
+			<path class="cls-300"
+              d="M253.68,222.52H60.93c-25.05,0-45.35-20.31-45.35-45.35V60.94c0-25.05,20.31-45.35,45.35-45.35h14.19"/>
+			<path class="cls-300"
+              d="M103.46,15.59h192.74c25.05,0,45.35,20.31,45.35,45.35v116.22c0,25.05-20.31,45.35-45.35,45.35h-14.17"/>
+		</g>
+	</g>
+	</g>
+</svg>

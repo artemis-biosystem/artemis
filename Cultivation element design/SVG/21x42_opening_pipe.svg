@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="21x42_opening_pipe"
+	xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 126">
+	<defs>
+		<style>  
+.cls-200{fill:none; stroke-width:2px; stroke:red;stroke-miterlimit:10;}
+.cls-300{fill: none; stroke-linejoin:round; stroke:#000;stroke-linecap:round;stroke-width:2px; stroke-miterlimit:10;}
+.cls-310{fill: none; stroke-linejoin:round; stroke:#000;stroke-linecap:round;stroke-width:0.666px; stroke-miterlimit:10;}
+.cls-210{fill:none; stroke-width:0.666px; stroke:red;stroke-miterlimit:10;}
+
+.cls-1,.cls-4,.cls-5{fill:none; stroke-miterlimit:10;}
+.cls-1{opacity:.8;stroke-width:1px;}
+.cls-6{opacity:.4;stroke-width:1px;}
+.NO_BG_LINES, .cls-1,.cls-4,.cls-5,.cls-6{stroke:none;}
+._LIGHT_BLUE, .cls-1,.cls-4,.cls-5,.cls-6{stroke:rgb(153, 230, 246);}
+.cls-5{stroke-width:.25px;}
+
+.def {
+      font: 40px sans-serif;
+      stroke: blue;
+      fill: white;
+    }
+    .shablona {
+      font: 40px sans-serif;
+      stroke: green;
+      fill: white;
+    }
+    .heavy {
+      font: bold 30px sans-serif;
+    }
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+    .Rrrrr {
+      font: italic 40px serif;
+      fill: red;
+    }
+  </style>
+	</defs>
+	<g id="21x42_opening_pipe" transform="scale(3)">
+		<g id="bg grid 1x2x21 pix blocks">
+			<line class="cls-1" x1="0" y1="0" x2="0" y2="42"/>
+			<line class="cls-6" x1="5.25" y1="0" x2="5.25" y2="42"/>
+			<line class="cls-6" x1="15.75" y1="0" x2="15.75" y2="42"/>
+			<line class="cls-1" x1="21" y1="0" x2="21" y2="42"/>
+			<line class="cls-1" x1="0" y1="0" x2="21" y2="0"/>
+			<line class="cls-6" x1="0" y1="5.25" x2="21" y2="5.25"/>
+			<line class="cls-6" x1="0" y1="15.75" x2="21" y2="15.75"/>
+			<line class="cls-1" x1="0" y1="21" x2="21" y2="21"/>
+			<line class="cls-6" x1="0" y1="26.25" x2="21" y2="26.25"/>
+			<line class="cls-6" x1="0" y1="36.75" x2="21" y2="36.75"/>
+			<line class="cls-1" x1="0" y1="42" x2="21" y2="42"/>
+		</g>
+		<g id="shape_21x42_opening_pipe" transform="scale(0.3523)">
+			<line class="cls-300" x1="15.59" y1="119.06" x2="0" y2="0"/>
+			<line class="cls-300" x1="59.53" y1="0" x2="43.94" y2="119.06"/>
+		</g>
+	</g>
+</svg>
+
+
+
