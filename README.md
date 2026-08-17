@@ -1,6 +1,6 @@
 # ARTEMIS: A Modular Robotic Bioreactor System for Empowering Biologists in Creative Experimentation
 
-Welcome to the ARTEMIS Bioreactor Project! This repository contains the documentation, instructions and files needed to build and operate the modular robotic bioreactor system presented in our paper at CHI 2025.
+Welcome to the ARTEMIS Bioreactor Project! This repository contains the documentation, instructions and files needed to build and operate the modular robotic bioreactor system presented in our paper.
 This project is designed to empower biologists in creative experimentation through rapid prototyping. 
 
 ![Artemis full system](./images/System.jpg)
