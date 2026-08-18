@@ -491,7 +491,7 @@ public:
     intensity = map(inten, 0, 100, 0, 255);
     if (enabled) {
       ledcWrite(pwmChannel, intensity);  // Apply the new intensity
-      Serial.println("AirPump intensity set to: " + String(intensity));
+      Serial.println("LED intensity set to: " + String(intensity));
     }
   }
 
